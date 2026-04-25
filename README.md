@@ -37,7 +37,7 @@ Projeto acadêmico finalizado.
 ## Como executar
 
 1. Baixe o projeto ou clone o repositório:
-git clone https://github.com/seu-usuario/agendamento-consultas-web
+git clone https://github.com/stelladobem19/agendamento-consultas-web
 
 2. Abra o arquivo:
 Agendamento de Consultas.html
