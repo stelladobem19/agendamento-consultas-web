@@ -34,6 +34,17 @@ Projeto desenvolvido na disciplina de Seminários III, durante a graduação em 
 Projeto acadêmico finalizado.
 
 ---
+## Como executar
+
+1. Baixe o projeto ou clone o repositório:
+git clone https://github.com/seu-usuario/agendamento-consultas-web
+
+2. Abra o arquivo:
+Agendamento de Consultas.html
+
+3. Execute no navegador
+
+---
 ## Demonstração
 <img width="1917" height="858" alt="Screenshot_2" src="https://github.com/user-attachments/assets/be7ed9b4-cc47-48cc-8b23-835ec815c21d" />
 <img width="1889" height="860" alt="Screenshot_3" src="https://github.com/user-attachments/assets/fbdcb2a3-4dc2-49b1-97d4-50a34740885f" />
